@@ -1,0 +1,6 @@
+dash
+dash_d3cloud>=0.1.0
+gunicorn
+pandas
+matplotlib
+dateparser
